@@ -1,0 +1,13 @@
+O exercício programa foi executado inicialmente no ambiente Jupyter do Anaconda,
+onde foram obtidos os gráficos provenientes do Matplotlib e inseridos no relatório;
+em seguida, o código, excluindo-se as partes gráficas, foi adaptado para o ambiente
+Spyder e salvo na pasta desse arquivo entregue sob o nome "Exercicio_programa.py".
+
+A versão do Python utilizada no Exercício Programa, obtida através do código
+>>>import sys
+>>>print(sys.version)
+que foi inserido no Console do Spyder, é: 3.7.6.
+
+O arquivo também conta com os arquivos de texto referentes aos 3 exemplos
+("Exemplo1.txt", "Exemplo2.txt", "Exemplo3.txt") e também um outro exemplo ("1_b"),
+nos moldes do Exemplo 2, que foi mostrado em aula e pode ser executado pelo programa.
